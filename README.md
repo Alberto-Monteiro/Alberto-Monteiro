@@ -4,15 +4,16 @@ Eu sou o Alberto Monteiro, e sou um Software Engineer que adora tecnologias tant
 
 Minhas principais rede sociais são:
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/albertodfk?style=social)](https://twitter.com/albertodfk)
-[![Linkedin: Alberto Monteiro](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alberto-costa-monteiro/)](https://www.linkedin.com/in/alberto-costa-monteiro/)
-[![Youtube: Alberto Monteiro](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCsJIZMZr8euYQaF7eeqXJfA)](https://www.youtube.com/channel/UCsJIZMZr8euYQaF7eeqXJfA)
-[![Twitch: Alberto Monteiro](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/rocksbr)](https://www.twitch.tv/rocksbr)
+[![Twitter](https://img.shields.io/badge/-twitter-FCFCFC?style=flat-square&logo=twitter)](https://twitter.com/albertodfk)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alberto-costa-monteiro/)](https://www.linkedin.com/in/alberto-costa-monteiro/)
+[![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCsJIZMZr8euYQaF7eeqXJfA)](https://www.youtube.com/channel/UCsJIZMZr8euYQaF7eeqXJfA)
+[![Twitch](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/rocksbr)](https://www.twitch.tv/rocksbr)
 
 ## ⚡ Tecnologias
 
 Estas são algumas das tecnologias e ferramentas com as quais trabalho:
 
+![Arduino](https://img.shields.io/badge/-Arduino-008184?style=flat-square&logo=Arduino)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
