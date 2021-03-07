@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Eu sou o Alberto Monteiro, e sou um Software Engineer que adora tecnologias tanto em software quanto em hardware. Eu sou entusiasta de Java, Angula e Arduino.
+Eu sou o Alberto Monteiro, e sou um Desenvolvedor de Software que adora tecnologias tanto em software quanto em hardware. Eu sou entusiasta de Java, Angula e Arduino.
 
 Minhas principais rede sociais são:
 
@@ -15,6 +15,7 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho:
 
 ![npm](https://img.shields.io/badge/-npm-FCFCFC?style=flat-square&logo=npm)
 ![Arduino](https://img.shields.io/badge/-Arduino-008184?style=flat-square&logo=Arduino)
+![PlatformIO](https://img.shields.io/badge/-PlatformIO-FF7F00?style=flat-square&logo=PlatformIO)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
