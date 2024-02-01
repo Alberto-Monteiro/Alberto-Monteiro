@@ -1,17 +1,23 @@
-### Olá 👋
+### Hello 👋
 
-Eu sou o Alberto Monteiro, e sou um Desenvolvedor de Software que adora tecnologias tanto em software quanto em hardware. Eu sou entusiasta de Java, Angula e Arduino.
+My name is Alberto, and I have over 14 years of programming experience. I stand out as a specialist in various technologies, including Java 17+, Spring Boot, Docker, Kubernetes, Jenkins, Sonar, microservices integrations, and Restful API development, as well as both relational and non-relational databases. I possess strong front-end skills with proficiency in Angular and Flutter.
 
-Minhas principais rede sociais são:
+My passion for technology serves as a constant drive to stay updated and in continuous pursuit of learning. I am committed to providing the best solutions for my clients' challenges, and this dedication is reflected in my ability to contribute significantly to the success of complex projects.
+
+Furthermore, I have practical experience with the Google Cloud Platform (GCP), utilizing its various tools and services to optimize and propel projects. My expertise extends to the effective use of Firebase, an efficient platform for app development, as well as Pub/Sub, facilitating efficient communication among various system components.
+
+My solid knowledge base and extensive experience equip me to tackle diverse challenges and offer innovative and effective solutions. I am prepared to continue evolving and adding value to projects, always with a commitment to achieving the highest standards of technical excellence.
+
+## 🌐 Social Media
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alberto-costa-monteiro/)](https://www.linkedin.com/in/alberto-costa-monteiro/)
 [![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCsJIZMZr8euYQaF7eeqXJfA)](https://www.youtube.com/channel/UCsJIZMZr8euYQaF7eeqXJfA)
 [![Twitch](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/rocksbr)](https://www.twitch.tv/rocksbr)
 [![Twitter](https://img.shields.io/badge/-twitter-FCFCFC?style=flat-square&logo=twitter)](https://twitter.com/albertodfk)
 
-## ⚡ Tecnologias
+## ⚡ Technologies
 
-Estas são algumas das tecnologias e ferramentas com as quais trabalho:
+Here are some of the technologies and tools I work with:
 
 ![npm](https://img.shields.io/badge/-npm-FCFCFC?style=flat-square&logo=npm)
 ![Arduino](https://img.shields.io/badge/-Arduino-008184?style=flat-square&logo=Arduino)
