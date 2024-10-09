@@ -98,7 +98,7 @@ I have practical experience with **Google Cloud Platform (GCP)**, where I levera
 
 Ofertarei is an advanced digital platform designed to aggregate and promote promotions, discounts, and coupons from various online stores, offering an optimized experience for both users and partner stores. The architecture is based on microservices, ensuring scalability, flexibility, and easy maintenance.
 
-[<img align="left" height="94px" width="94px" src="https://ofertarei.com.br/assets/img/ofertarei_logo.png"/>](https://ofertarei.com.br)
+[<img align="left" height="94px" width="94px" src="https://ofertarei.com.br/assets/img/ofertarei_logo.png" alt="Ofertarei"/>](https://ofertarei.com.br)
 
 **FullStack Developer:  2024 - 2024** \
 [**Ofertarei**](https://ofertarei.com.br/) \
