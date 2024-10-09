@@ -105,7 +105,7 @@ Ofertarei is an advanced digital platform designed to aggregate and promote prom
 \
 \
 **Languages & Technologies:**
-- **Backend:** `Java Spring Boot`, `Spring WebFlux`
+- **Backend:** `Java Spring Boot`, `Spring WebFlux`, `Spring Security`, `Spring Data`
 - **Frontend:** `Angular 18`
 - **Cloud & Infrastructure:** `Google Cloud Platform (GCP)`, `Cloud Run`, `Cloud Functions`, `Pub/Sub`
 - **Database & Authentication:** `Firebase` (Firestore, Authentication, Storage)
@@ -115,4 +115,8 @@ Ofertarei is an advanced digital platform designed to aggregate and promote prom
 ## 📈 Looking Ahead
 
 I am committed to further honing my skills and exploring emerging technologies to deliver even greater value in the projects I undertake. Let's connect and collaborate to drive success together!
+
+##
+
+<img src="https://komarev.com/ghpvc/?username=Alberto-Monteiro&color=green"/>   
 
