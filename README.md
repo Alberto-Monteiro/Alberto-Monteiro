@@ -105,7 +105,7 @@ Ofertarei is an advanced digital platform designed to aggregate and promote prom
 \
 \
 **Languages & Technologies:**
-- **Backend:** `Java Spring Boot`, `Spring WebFlux`, `Spring Security`, `Spring Data`
+- **Backend:** `Java 17`, `Spring Boot`, `Spring WebFlux`, `Spring Security`, `Spring Data`
 - **Frontend:** `Angular 18`
 - **Cloud & Infrastructure:** `Google Cloud Platform (GCP)`, `Cloud Run`, `Cloud Functions`, `Pub/Sub`
 - **Database & Authentication:** `Firebase` (Firestore, Authentication, Storage)
